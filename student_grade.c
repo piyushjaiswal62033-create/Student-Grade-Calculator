@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(
+int main()
 {
 float m1,m2,m3,m4,m5;
 float total, percentage;
@@ -13,6 +13,7 @@ total = m1+ m2+ m3+ m4+ m5;
 percentage = total/5;
 printf("total =%.2f\n", total);
 printf("percentage =%.2f%%\n", percentage);
+printf("Thank you for using Student Grade Calculator!\n");
 return 0;
 }
 // Student Grade Calculator - My First Git Project
