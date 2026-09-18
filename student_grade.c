@@ -15,3 +15,4 @@ printf("total =%.2f\n", total);
 printf("percentage =%.2f%%\n", percentage);
 return 0;
 }
+// Student Grade Calculator - My First Git Project
